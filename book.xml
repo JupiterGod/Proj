@@ -1,0 +1,303 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+ <root>
+     <row>
+         <Book Title>Discworld</Book Title>
+         <Genre>Fantasy</Genre>
+         <Subgenre>High/Epic</Subgenre>
+         <Author>Terry Pratchett</Author>
+     </row>
+     <row>
+         <Book Title>The Lord of Rings</Book Title>
+         <Genre>Fantasy</Genre>
+         <Subgenre>High/Epic</Subgenre>
+         <Author>J.R.R. Tolkien</Author>
+     </row>
+     <row>
+         <Book Title>The Hobbit</Book Title>
+         <Genre>Fantasy</Genre>
+         <Subgenre>High/Epic</Subgenre>
+         <Author>J.R.R. Tolkien</Author>
+     </row>
+     <row>
+         <Book Title>Tale of the Twins</Book Title>
+         <Genre>Fantasy</Genre>
+         <Subgenre>Low</Subgenre>
+         <Author>Enid Blyton</Author>
+     </row>
+     <row>
+         <Book Title>The Mortal Instruments</Book Title>
+         <Genre>Fantasy</Genre>
+         <Subgenre>Urban</Subgenre>
+         <Author>Cassandra Clare</Author>
+     </row>
+     <row>
+         <Book Title>Howl's Moving Castle</Book Title>
+         <Genre>Fantasy</Genre>
+         <Subgenre>Cosy</Subgenre>
+         <Author>Diana Wynne Jones</Author>
+     </row>
+     <row>
+         <Book Title>Game of Thrones</Book Title>
+         <Genre>Fantasy</Genre>
+         <Subgenre>Grimdark</Subgenre>
+         <Author>George R.R. Martin</Author>
+     </row>
+     <row>
+         <Book Title>That Time I Got Reincarnated as a Slime</Book Title>
+         <Genre>Fantasy</Genre>
+         <Subgenre>Crossworld</Subgenre>
+         <Author>\"Fuse</Author>
+     </row>
+     <row>
+         <Book Title>Coraline</Book Title>
+         <Genre>Horror</Genre>
+         <Subgenre>Survival</Subgenre>
+         <Author>Neil Gaiman</Author>
+     </row>
+     <row>
+         <Book Title>The Relic</Book Title>
+         <Genre>Horror</Genre>
+         <Subgenre>Survival</Subgenre>
+         <Author>\"Lincoln Child</Author>
+     </row>
+     <row>
+         <Book Title>Annihilation</Book Title>
+         <Genre>Horror</Genre>
+         <Subgenre>Eco</Subgenre>
+         <Author>Jeff VanderMeer</Author>
+     </row>
+     <row>
+         <Book Title>Pet Semetary</Book Title>
+         <Genre>Horror</Genre>
+         <Subgenre>Psychological</Subgenre>
+         <Author>Stephen King</Author>
+     </row>
+     <row>
+         <Book Title>Comfort Me with Apples</Book Title>
+         <Genre>Horror</Genre>
+         <Subgenre>Psychological</Subgenre>
+         <Author>Catherynne M. Valente</Author>
+     </row>
+     <row>
+         <Book Title>John Dies at the End</Book Title>
+         <Genre>Horror</Genre>
+         <Subgenre>Comedy</Subgenre>
+         <Author>David Wong</Author>
+     </row>
+     <row>
+         <Book Title>Uzumaki</Book Title>
+         <Genre>Horror</Genre>
+         <Subgenre>Cosmic</Subgenre>
+         <Author>Junji Ito</Author>
+     </row>
+     <row>
+         <Book Title>The Call of Cthulhu</Book Title>
+         <Genre>Horror</Genre>
+         <Subgenre>Cosmic</Subgenre>
+         <Author>H.P. Lovecraft</Author>
+     </row>
+     <row>
+         <Book Title>Reject Me</Book Title>
+         <Genre>Romance</Genre>
+         <Subgenre>Paranormal</Subgenre>
+         <Author>\"Kel Carpenter</Author>
+     </row>
+     <row>
+         <Book Title>First Drop of Crimson</Book Title>
+         <Genre>Romance</Genre>
+         <Subgenre>Paranormal</Subgenre>
+         <Author>Jeaniene Frost</Author>
+     </row>
+     <row>
+         <Book Title>Flying Angels</Book Title>
+         <Genre>Romance</Genre>
+         <Subgenre>Historical</Subgenre>
+         <Author>Danielle Steele</Author>
+     </row>
+     <row>
+         <Book Title>It Ends With Us</Book Title>
+         <Genre>Romance</Genre>
+         <Subgenre>Contemporary</Subgenre>
+         <Author>Colleen Hoover</Author>
+     </row>
+     <row>
+         <Book Title>Heartstopper</Book Title>
+         <Genre>Romance</Genre>
+         <Subgenre>LGBTQ+</Subgenre>
+         <Author>Alice Oseman</Author>
+     </row>
+     <row>
+         <Book Title>They Both Die at the End</Book Title>
+         <Genre>Romance</Genre>
+         <Subgenre>LGBTQ+</Subgenre>
+         <Author>Adam Silvera</Author>
+     </row>
+     <row>
+         <Book Title>The Silent Patient</Book Title>
+         <Genre>Thriller</Genre>
+         <Subgenre>Psychological</Subgenre>
+         <Author>Alex Michaelides</Author>
+     </row>
+     <row>
+         <Book Title>Sycamore Row</Book Title>
+         <Genre>Thriller</Genre>
+         <Subgenre>Legal</Subgenre>
+         <Author>John Grisham</Author>
+     </row>
+     <row>
+         <Book Title>An Officer and a Spy</Book Title>
+         <Genre>Thriller</Genre>
+         <Subgenre>Spy</Subgenre>
+         <Author>Robert Harris</Author>
+     </row>
+     <row>
+         <Book Title>The Accidental Assassin</Book Title>
+         <Genre>Thriller</Genre>
+         <Subgenre>Political</Subgenre>
+         <Author>Fritz Galt</Author>
+     </row>
+     <row>
+         <Book Title>Erebus Rising</Book Title>
+         <Genre>Thriller</Genre>
+         <Subgenre>Political</Subgenre>
+         <Author>Daniel Mershon</Author>
+     </row>
+     <row>
+         <Book Title>Apples Never Fall</Book Title>
+         <Genre>Thriller</Genre>
+         <Subgenre>Domestic</Subgenre>
+         <Author>Liane Moriarty</Author>
+     </row>
+     <row>
+         <Book Title>The Martian</Book Title>
+         <Genre>Sci-Fi</Genre>
+         <Subgenre>Hard Science</Subgenre>
+         <Author>Andy Weir</Author>
+     </row>
+     <row>
+         <Book Title>Dune</Book Title>
+         <Genre>Sci-Fi</Genre>
+         <Subgenre>Soft Science</Subgenre>
+         <Author>Frank Herbert</Author>
+     </row>
+     <row>
+         <Book Title>Maze Runner</Book Title>
+         <Genre>Sci-Fi</Genre>
+         <Subgenre>Soft Science</Subgenre>
+         <Author>James Dashner</Author>
+     </row>
+     <row>
+         <Book Title>Ender's Game</Book Title>
+         <Genre>Sci-Fi</Genre>
+         <Subgenre>Space Opera</Subgenre>
+         <Author>Orson Scott Card</Author>
+     </row>
+     <row>
+         <Book Title>The Girl in the Clockwork Collar</Book Title>
+         <Genre>Sci-Fi</Genre>
+         <Subgenre>Steampunk</Subgenre>
+         <Author>Kady Cross</Author>
+     </row>
+     <row>
+         <Book Title>Do Andriods Dream of Electric Sheep</Book Title>
+         <Genre>Sci-Fi</Genre>
+         <Subgenre>Cyberpunk</Subgenre>
+         <Author>Philip K. Dick</Author>
+     </row>
+     <row>
+         <Book Title>Murder at the Lone Peak</Book Title>
+         <Genre>Mystery</Genre>
+         <Subgenre>Cosy</Subgenre>
+         <Author>Kendall Scott</Author>
+     </row>
+     <row>
+         <Book Title>Murder on the Orient Express</Book Title>
+         <Genre>Mystery</Genre>
+         <Subgenre>Murder</Subgenre>
+         <Author>Agatha Christie</Author>
+     </row>
+     <row>
+         <Book Title>Fly Me to the Moon</Book Title>
+         <Genre>Mystery</Genre>
+         <Subgenre>Cosy</Subgenre>
+         <Author>Diane Vallere</Author>
+     </row>
+     <row>
+         <Book Title>The Body Finder</Book Title>
+         <Genre>Mystery</Genre>
+         <Subgenre>Paranormal</Subgenre>
+         <Author>Kimberly Derting</Author>
+     </row>
+     <row>
+         <Book Title>The Killer Inside Me</Book Title>
+         <Genre>Mystery</Genre>
+         <Subgenre>Noir</Subgenre>
+         <Author>Jim Thompson</Author>
+     </row>
+     <row>
+         <Book Title>A Man Named Doll</Book Title>
+         <Genre>Mystery</Genre>
+         <Subgenre>Noir</Subgenre>
+         <Author>Jonathan Ames</Author>
+     </row>
+     <row>
+         <Book Title>The Goldfinch</Book Title>
+         <Genre>Fiction</Genre>
+         <Subgenre>Literary Fiction</Subgenre>
+         <Author>Donna Tartt</Author>
+     </row>
+     <row>
+         <Book Title>The Life of Pi</Book Title>
+         <Genre>Fiction</Genre>
+         <Subgenre>Literary Fiction</Subgenre>
+         <Author>Yann Martel</Author>
+     </row>
+     <row>
+         <Book Title>Little Woman</Book Title>
+         <Genre>Fiction</Genre>
+         <Subgenre>Women's Fiction</Subgenre>
+         <Author>Louisa May Alcott</Author>
+     </row>
+     <row>
+         <Book Title>The Choices We Make</Book Title>
+         <Genre>Fiction</Genre>
+         <Subgenre>Women's Fiction</Subgenre>
+         <Author>Karma Brown</Author>
+     </row>
+     <row>
+         <Book Title>Divergent</Book Title>
+         <Genre>Fiction</Genre>
+         <Subgenre>Young Adult</Subgenre>
+         <Author>Veronica Roth</Author>
+     </row>
+     <row>
+         <Book Title>Percy Jackson</Book Title>
+         <Genre>Fiction</Genre>
+         <Subgenre>Young Adult</Subgenre>
+         <Author>Rick Riordan</Author>
+     </row>
+     <row>
+         <Book Title>1984</Book Title>
+         <Genre>Fiction</Genre>
+         <Subgenre>Dystopia</Subgenre>
+         <Author>George Orwell</Author>
+     </row>
+     <row>
+         <Book Title>The Handmaid's Tale</Book Title>
+         <Genre>Fiction</Genre>
+         <Subgenre>Dystopia</Subgenre>
+         <Author>Margaret Atwood</Author>
+     </row>
+     <row>
+         <Book Title>World War Z</Book Title>
+         <Genre>Fiction</Genre>
+         <Subgenre>Apocalypse</Subgenre>
+         <Author>Max Brooks</Author>
+     </row>
+     <row>
+         <Book Title>Penryn & The End of Days</Book Title>
+         <Genre>Fiction</Genre>
+         <Subgenre>Apocalypse</Subgenre>
+         <Author>Susan Ee</Author>
+     </row>
+ </root>
