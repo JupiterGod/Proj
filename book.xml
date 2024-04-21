@@ -1,303 +1,1103 @@
 <?xml version="1.0" encoding="UTF-8" ?>
  <root>
      <row>
-         <BookTitle>Discworld</BookTitle>
-         <Genre>Fantasy</Genre>
-         <Subgenre>High/Epic</Subgenre>
-         <Author>Terry Pratchett</Author>
+         <Rank>1</Rank>
+         <Title>Da Vinci Code</Title>
+         <Author>The</Author>
+         <Volume Sales>Brown</Volume Sales>
+         <Editions Combined>Dan</Editions Combined>
+         <Imprint>5</Imprint>
+         <Publisher>094</Publisher>
+         <Publication Date>805</Publication Date>
+         <Genre>7</Genre>
      </row>
      <row>
-         <BookTitle>The Lord of Rings</BookTitle>
-         <Genre>Fantasy</Genre>
-         <Subgenre>High/Epic</Subgenre>
-         <Author>J.R.R. Tolkien</Author>
+         <Rank>2</Rank>
+         <Title>Harry Potter and the Deathly Hallows</Title>
+         <Author>Rowling</Author>
+         <Volume Sales>J.K.</Volume Sales>
+         <Editions Combined>4</Editions Combined>
+         <Imprint>475</Imprint>
+         <Publisher>152</Publisher>
+         <Publication Date>8</Publication Date>
+         <Genre>Bloomsbury Publishing PLC</Genre>
      </row>
      <row>
-         <BookTitle>The Hobbit</BookTitle>
-         <Genre>Fantasy</Genre>
-         <Subgenre>High/Epic</Subgenre>
-         <Author>J.R.R. Tolkien</Author>
+         <Rank>3</Rank>
+         <Title>Harry Potter and the Philosopher's Stone</Title>
+         <Author>Rowling</Author>
+         <Volume Sales>J.K.</Volume Sales>
+         <Editions Combined>4</Editions Combined>
+         <Imprint>200</Imprint>
+         <Publisher>654</Publisher>
+         <Publication Date>8</Publication Date>
+         <Genre>Bloomsbury Publishing PLC</Genre>
      </row>
      <row>
-         <BookTitle>Tale of the Twins</BookTitle>
-         <Genre>Fantasy</Genre>
-         <Subgenre>Low</Subgenre>
-         <Author>Enid Blyton</Author>
+         <Rank>4</Rank>
+         <Title>Harry Potter and the Order of the Phoenix</Title>
+         <Author>Rowling</Author>
+         <Volume Sales>J.K.</Volume Sales>
+         <Editions Combined>4</Editions Combined>
+         <Imprint>179</Imprint>
+         <Publisher>479</Publisher>
+         <Publication Date>5</Publication Date>
+         <Genre>Bloomsbury Publishing PLC</Genre>
      </row>
      <row>
-         <BookTitle>The Mortal Instruments</BookTitle>
-         <Genre>Fantasy</Genre>
-         <Subgenre>Urban</Subgenre>
-         <Author>Cassandra Clare</Author>
+         <Rank>5</Rank>
+         <Title>Fifty Shades of Grey</Title>
+         <Author>James</Author>
+         <Volume Sales>E. L.</Volume Sales>
+         <Editions Combined>3</Editions Combined>
+         <Imprint>758</Imprint>
+         <Publisher>936</Publisher>
+         <Publication Date>1</Publication Date>
+         <Genre>Arrow Books</Genre>
      </row>
      <row>
-         <BookTitle>Howl's Moving Castle</BookTitle>
-         <Genre>Fantasy</Genre>
-         <Subgenre>Cosy</Subgenre>
-         <Author>Diana Wynne Jones</Author>
+         <Rank>6</Rank>
+         <Title>Harry Potter and the Goblet of Fire</Title>
+         <Author>Rowling</Author>
+         <Volume Sales>J.K.</Volume Sales>
+         <Editions Combined>3</Editions Combined>
+         <Imprint>583</Imprint>
+         <Publisher>215</Publisher>
+         <Publication Date>7</Publication Date>
+         <Genre>Bloomsbury Publishing PLC</Genre>
      </row>
      <row>
-         <BookTitle>Game of Thrones</BookTitle>
-         <Genre>Fantasy</Genre>
-         <Subgenre>Grimdark</Subgenre>
-         <Author>George R.R. Martin</Author>
+         <Rank>7</Rank>
+         <Title>Harry Potter and the Chamber of Secrets</Title>
+         <Author>Rowling</Author>
+         <Volume Sales>J.K.</Volume Sales>
+         <Editions Combined>3</Editions Combined>
+         <Imprint>484</Imprint>
+         <Publisher>047</Publisher>
+         <Publication Date>8</Publication Date>
+         <Genre>Bloomsbury Publishing PLC</Genre>
      </row>
      <row>
-         <BookTitle>That Time I Got Reincarnated as a Slime</BookTitle>
-         <Genre>Fantasy</Genre>
-         <Subgenre>Crossworld</Subgenre>
-         <Author>\"Fuse</Author>
+         <Rank>8</Rank>
+         <Title>Harry Potter and the Prisoner of Azkaban</Title>
+         <Author>Rowling</Author>
+         <Volume Sales>J.K.</Volume Sales>
+         <Editions Combined>3</Editions Combined>
+         <Imprint>377</Imprint>
+         <Publisher>906</Publisher>
+         <Publication Date>8</Publication Date>
+         <Genre>Bloomsbury Publishing PLC</Genre>
      </row>
      <row>
-         <BookTitle>Coraline</BookTitle>
-         <Genre>Horror</Genre>
-         <Subgenre>Survival</Subgenre>
-         <Author>Neil Gaiman</Author>
+         <Rank>9</Rank>
+         <Title>Angels and Demons</Title>
+         <Author>Brown</Author>
+         <Volume Sales>Dan</Volume Sales>
+         <Editions Combined>3</Editions Combined>
+         <Imprint>193</Imprint>
+         <Publisher>946</Publisher>
+         <Publication Date>5</Publication Date>
+         <Genre>Corgi Books</Genre>
      </row>
      <row>
-         <BookTitle>The Relic</BookTitle>
-         <Genre>Horror</Genre>
-         <Subgenre>Survival</Subgenre>
-         <Author>\"Lincoln Child</Author>
+         <Rank>10</Rank>
+         <Title>Harry Potter and the Half-blood Prince:Children's Edition</Title>
+         <Author>Rowling</Author>
+         <Volume Sales>J.K.</Volume Sales>
+         <Editions Combined>2</Editions Combined>
+         <Imprint>950</Imprint>
+         <Publisher>264</Publisher>
+         <Publication Date>1</Publication Date>
+         <Genre>Bloomsbury Publishing PLC</Genre>
      </row>
      <row>
-         <BookTitle>Annihilation</BookTitle>
-         <Genre>Horror</Genre>
-         <Subgenre>Eco</Subgenre>
-         <Author>Jeff VanderMeer</Author>
+         <Rank>11</Rank>
+         <Title>Fifty Shades Darker</Title>
+         <Author>James</Author>
+         <Volume Sales>E. L.</Volume Sales>
+         <Editions Combined>2</Editions Combined>
+         <Imprint>479</Imprint>
+         <Publisher>784</Publisher>
+         <Publication Date>1</Publication Date>
+         <Genre>Arrow Books</Genre>
      </row>
      <row>
-         <BookTitle>Pet Semetary</BookTitle>
-         <Genre>Horror</Genre>
-         <Subgenre>Psychological</Subgenre>
-         <Author>Stephen King</Author>
+         <Rank>12</Rank>
+         <Title>Twilight</Title>
+         <Author>Meyer</Author>
+         <Volume Sales>Stephenie</Volume Sales>
+         <Editions Combined>2</Editions Combined>
+         <Imprint>315</Imprint>
+         <Publisher>405</Publisher>
+         <Publication Date>6</Publication Date>
+         <Genre>ATOM</Genre>
      </row>
      <row>
-         <BookTitle>Comfort Me with Apples</BookTitle>
-         <Genre>Horror</Genre>
-         <Subgenre>Psychological</Subgenre>
-         <Author>Catherynne M. Valente</Author>
+         <Rank>13</Rank>
+         <Title>Girl with the Dragon Tattoo</Title>
+         <Author>The:Millennium Trilogy</Author>
+         <Volume Sales>Larsson</Volume Sales>
+         <Editions Combined>Stieg</Editions Combined>
+         <Imprint>2</Imprint>
+         <Publisher>233</Publisher>
+         <Publication Date>570</Publication Date>
+         <Genre>4</Genre>
      </row>
      <row>
-         <BookTitle>John Dies at the End</BookTitle>
-         <Genre>Horror</Genre>
-         <Subgenre>Comedy</Subgenre>
-         <Author>David Wong</Author>
+         <Rank>14</Rank>
+         <Title>Fifty Shades Freed</Title>
+         <Author>James</Author>
+         <Volume Sales>E. L.</Volume Sales>
+         <Editions Combined>2</Editions Combined>
+         <Imprint>193</Imprint>
+         <Publisher>928</Publisher>
+         <Publication Date>1</Publication Date>
+         <Genre>Arrow Books</Genre>
      </row>
      <row>
-         <BookTitle>Uzumaki</BookTitle>
-         <Genre>Horror</Genre>
-         <Subgenre>Cosmic</Subgenre>
-         <Author>Junji Ito</Author>
+         <Rank>15</Rank>
+         <Title>Lost Symbol</Title>
+         <Author>The</Author>
+         <Volume Sales>Brown</Volume Sales>
+         <Editions Combined>Dan</Editions Combined>
+         <Imprint>2</Imprint>
+         <Publisher>183</Publisher>
+         <Publication Date>031</Publication Date>
+         <Genre>3</Genre>
      </row>
      <row>
-         <BookTitle>The Call of Cthulhu</BookTitle>
-         <Genre>Horror</Genre>
-         <Subgenre>Cosmic</Subgenre>
-         <Author>H.P. Lovecraft</Author>
+         <Rank>16</Rank>
+         <Title>New Moon</Title>
+         <Author>Meyer</Author>
+         <Volume Sales>Stephenie</Volume Sales>
+         <Editions Combined>2</Editions Combined>
+         <Imprint>152</Imprint>
+         <Publisher>737</Publisher>
+         <Publication Date>5</Publication Date>
+         <Genre>ATOM</Genre>
      </row>
      <row>
-         <BookTitle>Reject Me</BookTitle>
-         <Genre>Romance</Genre>
-         <Subgenre>Paranormal</Subgenre>
-         <Author>\"Kel Carpenter</Author>
+         <Rank>17</Rank>
+         <Title>Deception Point</Title>
+         <Author>Brown</Author>
+         <Volume Sales>Dan</Volume Sales>
+         <Editions Combined>2</Editions Combined>
+         <Imprint>062</Imprint>
+         <Publisher>145</Publisher>
+         <Publication Date>3</Publication Date>
+         <Genre>Corgi Books</Genre>
      </row>
      <row>
-         <BookTitle>First Drop of Crimson</BookTitle>
-         <Genre>Romance</Genre>
-         <Subgenre>Paranormal</Subgenre>
-         <Author>Jeaniene Frost</Author>
+         <Rank>18</Rank>
+         <Title>Eclipse</Title>
+         <Author>Meyer</Author>
+         <Volume Sales>Stephenie</Volume Sales>
+         <Editions Combined>2</Editions Combined>
+         <Imprint>052</Imprint>
+         <Publisher>876</Publisher>
+         <Publication Date>7</Publication Date>
+         <Genre>ATOM</Genre>
      </row>
      <row>
-         <BookTitle>Flying Angels</BookTitle>
-         <Genre>Romance</Genre>
-         <Subgenre>Historical</Subgenre>
-         <Author>Danielle Steele</Author>
+         <Rank>19</Rank>
+         <Title>Lovely Bones</Title>
+         <Author>The</Author>
+         <Volume Sales>Sebold</Volume Sales>
+         <Editions Combined>Alice</Editions Combined>
+         <Imprint>2</Imprint>
+         <Publisher>005</Publisher>
+         <Publication Date>598</Publication Date>
+         <Genre>3</Genre>
      </row>
      <row>
-         <BookTitle>It Ends With Us</BookTitle>
-         <Genre>Romance</Genre>
-         <Subgenre>Contemporary</Subgenre>
-         <Author>Colleen Hoover</Author>
+         <Rank>20</Rank>
+         <Title>Curious Incident of the Dog in the Night-time</Title>
+         <Author>The</Author>
+         <Volume Sales>Haddon</Volume Sales>
+         <Editions Combined>Mark</Editions Combined>
+         <Imprint>1</Imprint>
+         <Publisher>979</Publisher>
+         <Publication Date>552</Publication Date>
+         <Genre>4</Genre>
      </row>
      <row>
-         <BookTitle>Heartstopper</BookTitle>
-         <Genre>Romance</Genre>
-         <Subgenre>LGBTQ+</Subgenre>
-         <Author>Alice Oseman</Author>
+         <Rank>21</Rank>
+         <Title>Digital Fortress</Title>
+         <Author>Brown</Author>
+         <Volume Sales>Dan</Volume Sales>
+         <Editions Combined>1</Editions Combined>
+         <Imprint>928</Imprint>
+         <Publisher>900</Publisher>
+         <Publication Date>2</Publication Date>
+         <Genre>Corgi Books</Genre>
      </row>
      <row>
-         <BookTitle>They Both Die at the End</BookTitle>
-         <Genre>Romance</Genre>
-         <Subgenre>LGBTQ+</Subgenre>
-         <Author>Adam Silvera</Author>
+         <Rank>22</Rank>
+         <Title>Short History of Nearly Everything</Title>
+         <Author>A</Author>
+         <Volume Sales>Bryson</Volume Sales>
+         <Editions Combined>Bill</Editions Combined>
+         <Imprint>1</Imprint>
+         <Publisher>852</Publisher>
+         <Publication Date>919</Publication Date>
+         <Genre>5</Genre>
      </row>
      <row>
-         <BookTitle>The Silent Patient</BookTitle>
-         <Genre>Thriller</Genre>
-         <Subgenre>Psychological</Subgenre>
-         <Author>Alex Michaelides</Author>
+         <Rank>23</Rank>
+         <Title>Girl Who Played with Fire</Title>
+         <Author>The:Millennium Trilogy</Author>
+         <Volume Sales>Larsson</Volume Sales>
+         <Editions Combined>Stieg</Editions Combined>
+         <Imprint>1</Imprint>
+         <Publisher>814</Publisher>
+         <Publication Date>784</Publication Date>
+         <Genre>5</Genre>
      </row>
      <row>
-         <BookTitle>Sycamore Row</BookTitle>
-         <Genre>Thriller</Genre>
-         <Subgenre>Legal</Subgenre>
-         <Author>John Grisham</Author>
+         <Rank>24</Rank>
+         <Title>Breaking Dawn</Title>
+         <Author>Meyer</Author>
+         <Volume Sales>Stephenie</Volume Sales>
+         <Editions Combined>1</Editions Combined>
+         <Imprint>787</Imprint>
+         <Publisher>118</Publisher>
+         <Publication Date>5</Publication Date>
+         <Genre>ATOM</Genre>
      </row>
      <row>
-         <BookTitle>An Officer and a Spy</BookTitle>
-         <Genre>Thriller</Genre>
-         <Subgenre>Spy</Subgenre>
-         <Author>Robert Harris</Author>
+         <Rank>25</Rank>
+         <Title>Very Hungry Caterpillar</Title>
+         <Author>The:The Very Hungry Caterpillar</Author>
+         <Volume Sales>Carle</Volume Sales>
+         <Editions Combined>Eric</Editions Combined>
+         <Imprint>1</Imprint>
+         <Publisher>783</Publisher>
+         <Publication Date>535</Publication Date>
+         <Genre>8</Genre>
      </row>
      <row>
-         <BookTitle>The Accidental Assassin</BookTitle>
-         <Genre>Thriller</Genre>
-         <Subgenre>Political</Subgenre>
-         <Author>Fritz Galt</Author>
+         <Rank>26</Rank>
+         <Title>Gruffalo</Title>
+         <Author>The</Author>
+         <Volume Sales>Donaldson</Volume Sales>
+         <Editions Combined>Julia</Editions Combined>
+         <Imprint>1</Imprint>
+         <Publisher>781</Publisher>
+         <Publication Date>269</Publication Date>
+         <Genre>11</Genre>
      </row>
      <row>
-         <BookTitle>Erebus Rising</BookTitle>
-         <Genre>Thriller</Genre>
-         <Subgenre>Political</Subgenre>
-         <Author>Daniel Mershon</Author>
+         <Rank>27</Rank>
+         <Title>Jamie's 30-Minute Meals</Title>
+         <Author>Oliver</Author>
+         <Volume Sales>Jamie</Volume Sales>
+         <Editions Combined>1</Editions Combined>
+         <Imprint>743</Imprint>
+         <Publisher>266</Publisher>
+         <Publication Date>1</Publication Date>
+         <Genre>Michael Joseph</Genre>
      </row>
      <row>
-         <BookTitle>Apples Never Fall</BookTitle>
-         <Genre>Thriller</Genre>
-         <Subgenre>Domestic</Subgenre>
-         <Author>Liane Moriarty</Author>
+         <Rank>28</Rank>
+         <Title>Kite Runner</Title>
+         <Author>The</Author>
+         <Volume Sales>Hosseini</Volume Sales>
+         <Editions Combined>Khaled</Editions Combined>
+         <Imprint>1</Imprint>
+         <Publisher>629</Publisher>
+         <Publication Date>119</Publication Date>
+         <Genre>6</Genre>
      </row>
      <row>
-         <BookTitle>The Martian</BookTitle>
-         <Genre>Sci-Fi</Genre>
-         <Subgenre>Hard Science</Subgenre>
-         <Author>Andy Weir</Author>
+         <Rank>29</Rank>
+         <Title>One Day</Title>
+         <Author>Nicholls</Author>
+         <Volume Sales>David</Volume Sales>
+         <Editions Combined>1</Editions Combined>
+         <Imprint>616</Imprint>
+         <Publisher>068</Publisher>
+         <Publication Date>3</Publication Date>
+         <Genre>Hodder Paperback</Genre>
      </row>
      <row>
-         <BookTitle>Dune</BookTitle>
-         <Genre>Sci-Fi</Genre>
-         <Subgenre>Soft Science</Subgenre>
-         <Author>Frank Herbert</Author>
+         <Rank>30</Rank>
+         <Title>Thousand Splendid Suns</Title>
+         <Author>A</Author>
+         <Volume Sales>Hosseini</Volume Sales>
+         <Editions Combined>Khaled</Editions Combined>
+         <Imprint>1</Imprint>
+         <Publisher>583</Publisher>
+         <Publication Date>992</Publication Date>
+         <Genre>5</Genre>
      </row>
      <row>
-         <BookTitle>Maze Runner</BookTitle>
-         <Genre>Sci-Fi</Genre>
-         <Subgenre>Soft Science</Subgenre>
-         <Author>James Dashner</Author>
+         <Rank>31</Rank>
+         <Title>Girl Who Kicked the Hornets' Nest</Title>
+         <Author>The:Millennium Trilogy</Author>
+         <Volume Sales>Larsson</Volume Sales>
+         <Editions Combined>Stieg</Editions Combined>
+         <Imprint>1</Imprint>
+         <Publisher>555</Publisher>
+         <Publication Date>135</Publication Date>
+         <Genre>4</Genre>
      </row>
      <row>
-         <BookTitle>Ender's Game</BookTitle>
-         <Genre>Sci-Fi</Genre>
-         <Subgenre>Space Opera</Subgenre>
-         <Author>Orson Scott Card</Author>
+         <Rank>32</Rank>
+         <Title>Time Traveler's Wife</Title>
+         <Author>The</Author>
+         <Volume Sales>Niffenegger</Volume Sales>
+         <Editions Combined>Audrey</Editions Combined>
+         <Imprint>1</Imprint>
+         <Publisher>546</Publisher>
+         <Publication Date>886</Publication Date>
+         <Genre>2</Genre>
      </row>
      <row>
-         <BookTitle>The Girl in the Clockwork Collar</BookTitle>
-         <Genre>Sci-Fi</Genre>
-         <Subgenre>Steampunk</Subgenre>
-         <Author>Kady Cross</Author>
+         <Rank>33</Rank>
+         <Title>Atonement</Title>
+         <Author>McEwan</Author>
+         <Volume Sales>Ian</Volume Sales>
+         <Editions Combined>1</Editions Combined>
+         <Imprint>539</Imprint>
+         <Publisher>428</Publisher>
+         <Publication Date>3</Publication Date>
+         <Genre>Vintage</Genre>
      </row>
      <row>
-         <BookTitle>Do Andriods Dream of Electric Sheep</BookTitle>
-         <Genre>Sci-Fi</Genre>
-         <Subgenre>Cyberpunk</Subgenre>
-         <Author>Philip K. Dick</Author>
+         <Rank>34</Rank>
+         <Title>Bridget Jones's Diary:A Novel</Title>
+         <Author>Fielding</Author>
+         <Volume Sales>Helen</Volume Sales>
+         <Editions Combined>1</Editions Combined>
+         <Imprint>508</Imprint>
+         <Publisher>205</Publisher>
+         <Publication Date>3</Publication Date>
+         <Genre>Picador</Genre>
      </row>
      <row>
-         <BookTitle>Murder at the Lone Peak</BookTitle>
-         <Genre>Mystery</Genre>
-         <Subgenre>Cosy</Subgenre>
-         <Author>Kendall Scott</Author>
+         <Rank>35</Rank>
+         <Title>World According to Clarkson</Title>
+         <Author>The</Author>
+         <Volume Sales>Clarkson</Volume Sales>
+         <Editions Combined>Jeremy</Editions Combined>
+         <Imprint>1</Imprint>
+         <Publisher>489</Publisher>
+         <Publication Date>403</Publication Date>
+         <Genre>2</Genre>
      </row>
      <row>
-         <BookTitle>Murder on the Orient Express</BookTitle>
-         <Genre>Mystery</Genre>
-         <Subgenre>Murder</Subgenre>
-         <Author>Agatha Christie</Author>
+         <Rank>36</Rank>
+         <Title>Captain Corelli's Mandolin</Title>
+         <Author>Bernieres</Author>
+         <Volume Sales>Louis de</Volume Sales>
+         <Editions Combined>1</Editions Combined>
+         <Imprint>352</Imprint>
+         <Publisher>318</Publisher>
+         <Publication Date>2</Publication Date>
+         <Genre>Minerva</Genre>
      </row>
      <row>
-         <BookTitle>Fly Me to the Moon</BookTitle>
-         <Genre>Mystery</Genre>
-         <Subgenre>Cosy</Subgenre>
-         <Author>Diane Vallere</Author>
+         <Rank>37</Rank>
+         <Title>Sound of Laughter</Title>
+         <Author>The</Author>
+         <Volume Sales>Kay</Volume Sales>
+         <Editions Combined>Peter</Editions Combined>
+         <Imprint>1</Imprint>
+         <Publisher>310</Publisher>
+         <Publication Date>207</Publication Date>
+         <Genre>3</Genre>
      </row>
      <row>
-         <BookTitle>The Body Finder</BookTitle>
-         <Genre>Mystery</Genre>
-         <Subgenre>Paranormal</Subgenre>
-         <Author>Kimberly Derting</Author>
+         <Rank>38</Rank>
+         <Title>Life of Pi</Title>
+         <Author>Martel</Author>
+         <Volume Sales>Yann</Volume Sales>
+         <Editions Combined>1</Editions Combined>
+         <Imprint>310</Imprint>
+         <Publisher>176</Publisher>
+         <Publication Date>5</Publication Date>
+         <Genre>Canongate Books</Genre>
      </row>
      <row>
-         <BookTitle>The Killer Inside Me</BookTitle>
-         <Genre>Mystery</Genre>
-         <Subgenre>Noir</Subgenre>
-         <Author>Jim Thompson</Author>
+         <Rank>39</Rank>
+         <Title>Billy Connolly</Title>
+         <Author>Stephenson</Author>
+         <Volume Sales>Pamela</Volume Sales>
+         <Editions Combined>1</Editions Combined>
+         <Imprint>231</Imprint>
+         <Publisher>957</Publisher>
+         <Publication Date>2</Publication Date>
+         <Genre>HarperCollins Entertainment</Genre>
      </row>
      <row>
-         <BookTitle>A Man Named Doll</BookTitle>
-         <Genre>Mystery</Genre>
-         <Subgenre>Noir</Subgenre>
-         <Author>Jonathan Ames</Author>
+         <Rank>40</Rank>
+         <Title>Child Called It</Title>
+         <Author>A</Author>
+         <Volume Sales>Pelzer</Volume Sales>
+         <Editions Combined>Dave</Editions Combined>
+         <Imprint>1</Imprint>
+         <Publisher>217</Publisher>
+         <Publication Date>712</Publication Date>
+         <Genre>2</Genre>
      </row>
      <row>
-         <BookTitle>The Goldfinch</BookTitle>
-         <Genre>Fiction</Genre>
-         <Subgenre>Literary Fiction</Subgenre>
-         <Author>Donna Tartt</Author>
+         <Rank>41</Rank>
+         <Title>Gruffalo's Child</Title>
+         <Author>The</Author>
+         <Volume Sales>Donaldson</Volume Sales>
+         <Editions Combined>Julia</Editions Combined>
+         <Imprint>1</Imprint>
+         <Publisher>208</Publisher>
+         <Publication Date>711</Publication Date>
+         <Genre>6</Genre>
      </row>
      <row>
-         <BookTitle>The Life of Pi</BookTitle>
-         <Genre>Fiction</Genre>
-         <Subgenre>Literary Fiction</Subgenre>
-         <Author>Yann Martel</Author>
+         <Rank>42</Rank>
+         <Title>Angela's Ashes:A Memoir of a Childhood</Title>
+         <Author>McCourt</Author>
+         <Volume Sales>Frank</Volume Sales>
+         <Editions Combined>1</Editions Combined>
+         <Imprint>204</Imprint>
+         <Publisher>058</Publisher>
+         <Publication Date>2</Publication Date>
+         <Genre>Flamingo</Genre>
      </row>
      <row>
-         <BookTitle>Little Woman</BookTitle>
-         <Genre>Fiction</Genre>
-         <Subgenre>Women's Fiction</Subgenre>
-         <Author>Louisa May Alcott</Author>
+         <Rank>43</Rank>
+         <Title>Birdsong</Title>
+         <Author>Faulks</Author>
+         <Volume Sales>Sebastian</Volume Sales>
+         <Editions Combined>1</Editions Combined>
+         <Imprint>184</Imprint>
+         <Publisher>967</Publisher>
+         <Publication Date>4</Publication Date>
+         <Genre>Vintage</Genre>
      </row>
      <row>
-         <BookTitle>The Choices We Make</BookTitle>
-         <Genre>Fiction</Genre>
-         <Subgenre>Women's Fiction</Subgenre>
-         <Author>Karma Brown</Author>
+         <Rank>44</Rank>
+         <Title>Northern Lights:His Dark Materials S.</Title>
+         <Author>Pullman</Author>
+         <Volume Sales>Philip</Volume Sales>
+         <Editions Combined>1</Editions Combined>
+         <Imprint>181</Imprint>
+         <Publisher>503</Publisher>
+         <Publication Date>6</Publication Date>
+         <Genre>Point</Genre>
      </row>
      <row>
-         <BookTitle>Divergent</BookTitle>
-         <Genre>Fiction</Genre>
-         <Subgenre>Young Adult</Subgenre>
-         <Author>Veronica Roth</Author>
+         <Rank>45</Rank>
+         <Title>Labyrinth</Title>
+         <Author>Mosse</Author>
+         <Volume Sales>Kate</Volume Sales>
+         <Editions Combined>1</Editions Combined>
+         <Imprint>181</Imprint>
+         <Publisher>093</Publisher>
+         <Publication Date>4</Publication Date>
+         <Genre>Orion (an Imprint of The Orion</Genre>
      </row>
      <row>
-         <BookTitle>Percy Jackson</BookTitle>
-         <Genre>Fiction</Genre>
-         <Subgenre>Young Adult</Subgenre>
-         <Author>Rick Riordan</Author>
+         <Rank>46</Rank>
+         <Title>Harry Potter and the Half-blood Prince</Title>
+         <Author>Rowling</Author>
+         <Volume Sales>J.K.</Volume Sales>
+         <Editions Combined>1</Editions Combined>
+         <Imprint>153</Imprint>
+         <Publisher>181</Publisher>
+         <Publication Date>5</Publication Date>
+         <Genre>Bloomsbury Publishing PLC</Genre>
      </row>
      <row>
-         <BookTitle>1984</BookTitle>
-         <Genre>Fiction</Genre>
-         <Subgenre>Dystopia</Subgenre>
-         <Author>George Orwell</Author>
+         <Rank>47</Rank>
+         <Title>Help</Title>
+         <Author>The</Author>
+         <Volume Sales>Stockett</Volume Sales>
+         <Editions Combined>Kathryn</Editions Combined>
+         <Imprint>1</Imprint>
+         <Publisher>132</Publisher>
+         <Publication Date>336</Publication Date>
+         <Genre>3</Genre>
      </row>
      <row>
-         <BookTitle>The Handmaid's Tale</BookTitle>
-         <Genre>Fiction</Genre>
-         <Subgenre>Dystopia</Subgenre>
-         <Author>Margaret Atwood</Author>
+         <Rank>48</Rank>
+         <Title>Man and Boy</Title>
+         <Author>Parsons</Author>
+         <Volume Sales>Tony</Volume Sales>
+         <Editions Combined>1</Editions Combined>
+         <Imprint>130</Imprint>
+         <Publisher>802</Publisher>
+         <Publication Date>3</Publication Date>
+         <Genre>HarperCollins Publishers</Genre>
      </row>
      <row>
-         <BookTitle>World War Z</BookTitle>
-         <Genre>Fiction</Genre>
-         <Subgenre>Apocalypse</Subgenre>
-         <Author>Max Brooks</Author>
+         <Rank>49</Rank>
+         <Title>Memoirs of a Geisha</Title>
+         <Author>Golden</Author>
+         <Volume Sales>Arthur</Volume Sales>
+         <Editions Combined>1</Editions Combined>
+         <Imprint>126</Imprint>
+         <Publisher>337</Publisher>
+         <Publication Date>3</Publication Date>
+         <Genre>Vintage</Genre>
      </row>
      <row>
-         <BookTitle>Penryn & The End of Days</BookTitle>
-         <Genre>Fiction</Genre>
-         <Subgenre>Apocalypse</Subgenre>
-         <Author>Susan Ee</Author>
+         <Rank>50</Rank>
+         <Title>No.1 Ladies' Detective Agency</Title>
+         <Author>The:No.1 Ladies' Detective Agency S.</Author>
+         <Volume Sales>McCall Smith</Volume Sales>
+         <Editions Combined>Alexander</Editions Combined>
+         <Imprint>1</Imprint>
+         <Publisher>115</Publisher>
+         <Publication Date>549</Publication Date>
+         <Genre>1</Genre>
+     </row>
+     <row>
+         <Rank>51</Rank>
+         <Title>Island</Title>
+         <Author>The</Author>
+         <Volume Sales>Hislop</Volume Sales>
+         <Editions Combined>Victoria</Editions Combined>
+         <Imprint>1</Imprint>
+         <Publisher>108</Publisher>
+         <Publication Date>328</Publication Date>
+         <Genre>1</Genre>
+     </row>
+     <row>
+         <Rank>52</Rank>
+         <Title>PS</Title>
+         <Author>I Love You</Author>
+         <Volume Sales>Ahern</Volume Sales>
+         <Editions Combined>Cecelia</Editions Combined>
+         <Imprint>1</Imprint>
+         <Publisher>107</Publisher>
+         <Publication Date>379</Publication Date>
+         <Genre>5</Genre>
+     </row>
+     <row>
+         <Rank>53</Rank>
+         <Title>You are What You Eat:The Plan That Will Change Your Life</Title>
+         <Author>McKeith</Author>
+         <Volume Sales>Gillian</Volume Sales>
+         <Editions Combined>1</Editions Combined>
+         <Imprint>104</Imprint>
+         <Publisher>403</Publisher>
+         <Publication Date>1</Publication Date>
+         <Genre>Michael Joseph</Genre>
+     </row>
+     <row>
+         <Rank>54</Rank>
+         <Title>Shadow of the Wind</Title>
+         <Author>The</Author>
+         <Volume Sales>Zafon</Volume Sales>
+         <Editions Combined>Carlos Ruiz</Editions Combined>
+         <Imprint>1</Imprint>
+         <Publisher>092</Publisher>
+         <Publication Date>349</Publication Date>
+         <Genre>6</Genre>
+     </row>
+     <row>
+         <Rank>55</Rank>
+         <Title>Tales of Beedle the Bard</Title>
+         <Author>The</Author>
+         <Volume Sales>Rowling</Volume Sales>
+         <Editions Combined>J.K.</Editions Combined>
+         <Imprint>1</Imprint>
+         <Publisher>090</Publisher>
+         <Publication Date>847</Publication Date>
+         <Genre>1</Genre>
+     </row>
+     <row>
+         <Rank>56</Rank>
+         <Title>Broker</Title>
+         <Author>The</Author>
+         <Volume Sales>Grisham</Volume Sales>
+         <Editions Combined>John</Editions Combined>
+         <Imprint>1</Imprint>
+         <Publisher>087</Publisher>
+         <Publication Date>262</Publication Date>
+         <Genre>4</Genre>
+     </row>
+     <row>
+         <Rank>57</Rank>
+         <Title>Dr. Atkins' New Diet Revolution:The No-hunger</Title>
+         <Author>Luxurious Weight Loss P</Author>
+         <Volume Sales>Atkins</Volume Sales>
+         <Editions Combined>Robert C.</Editions Combined>
+         <Imprint>1</Imprint>
+         <Publisher>054</Publisher>
+         <Publication Date>196</Publication Date>
+         <Genre>1</Genre>
+     </row>
+     <row>
+         <Rank>58</Rank>
+         <Title>Subtle Knife</Title>
+         <Author>The:His Dark Materials S.</Author>
+         <Volume Sales>Pullman</Volume Sales>
+         <Editions Combined>Philip</Editions Combined>
+         <Imprint>1</Imprint>
+         <Publisher>037</Publisher>
+         <Publication Date>160</Publication Date>
+         <Genre>6</Genre>
+     </row>
+     <row>
+         <Rank>59</Rank>
+         <Title>Eats</Title>
+         <Author>Shoots and Leaves:The Zero Tolerance Approach to Punctuation</Author>
+         <Volume Sales>Truss</Volume Sales>
+         <Editions Combined>Lynne</Editions Combined>
+         <Imprint>1</Imprint>
+         <Publisher>023</Publisher>
+         <Publication Date>688</Publication Date>
+         <Genre>2</Genre>
+     </row>
+     <row>
+         <Rank>60</Rank>
+         <Title>Delia's How to Cook:(Bk.1)</Title>
+         <Author>Smith</Author>
+         <Volume Sales>Delia</Volume Sales>
+         <Editions Combined>1</Editions Combined>
+         <Imprint>015</Imprint>
+         <Publisher>956</Publisher>
+         <Publication Date>1</Publication Date>
+         <Genre>BBC Books (Random House)</Genre>
+     </row>
+     <row>
+         <Rank>61</Rank>
+         <Title>Chocolat</Title>
+         <Author>Harris</Author>
+         <Volume Sales>Joanne</Volume Sales>
+         <Editions Combined>1</Editions Combined>
+         <Imprint>009</Imprint>
+         <Publisher>873</Publisher>
+         <Publication Date>3</Publication Date>
+         <Genre>Black Swan</Genre>
+     </row>
+     <row>
+         <Rank>62</Rank>
+         <Title>Boy in the Striped Pyjamas</Title>
+         <Author>The</Author>
+         <Volume Sales>Boyne</Volume Sales>
+         <Editions Combined>John</Editions Combined>
+         <Imprint>1</Imprint>
+         <Publisher>004</Publisher>
+         <Publication Date>414</Publication Date>
+         <Genre>6</Genre>
+     </row>
+     <row>
+         <Rank>63</Rank>
+         <Title>My Sister's Keeper</Title>
+         <Author>Picoult</Author>
+         <Volume Sales>Jodi</Volume Sales>
+         <Editions Combined>1</Editions Combined>
+         <Imprint>003</Imprint>
+         <Publisher>780</Publisher>
+         <Publication Date>3</Publication Date>
+         <Genre>Hodder & Stoughton Ltd</Genre>
+     </row>
+     <row>
+         <Rank>64</Rank>
+         <Title>Amber Spyglass</Title>
+         <Author>The:His Dark Materials S.</Author>
+         <Volume Sales>Pullman</Volume Sales>
+         <Editions Combined>Philip</Editions Combined>
+         <Imprint>1</Imprint>
+         <Publisher>002</Publisher>
+         <Publication Date>314</Publication Date>
+         <Genre>6</Genre>
+     </row>
+     <row>
+         <Rank>65</Rank>
+         <Title>To Kill a Mockingbird</Title>
+         <Author>Lee</Author>
+         <Volume Sales>Harper</Volume Sales>
+         <Editions Combined>998</Editions Combined>
+         <Imprint>213</Imprint>
+         <Publisher>7</Publisher>
+         <Publication Date>Arrow Books</Publication Date>
+         <Genre>Random House Grp</Genre>
+     </row>
+     <row>
+         <Rank>66</Rank>
+         <Title>Men are from Mars</Title>
+         <Author>Women are from Venus:A Practical Guide for Improvin</Author>
+         <Volume Sales>Gray</Volume Sales>
+         <Editions Combined>John</Editions Combined>
+         <Imprint>992</Imprint>
+         <Publisher>846</Publisher>
+         <Publication Date>4</Publication Date>
+         <Genre>Thorsons</Genre>
+     </row>
+     <row>
+         <Rank>67</Rank>
+         <Title>Dear Fatty</Title>
+         <Author>French</Author>
+         <Volume Sales>Dawn</Volume Sales>
+         <Editions Combined>986</Editions Combined>
+         <Imprint>753</Imprint>
+         <Publisher>4</Publisher>
+         <Publication Date>Century</Publication Date>
+         <Genre>Random House Grp</Genre>
+     </row>
+     <row>
+         <Rank>68</Rank>
+         <Title>Short History of Tractors in Ukrainian</Title>
+         <Author>A</Author>
+         <Volume Sales>Lewycka</Volume Sales>
+         <Editions Combined>Marina</Editions Combined>
+         <Imprint>986</Imprint>
+         <Publisher>115</Publisher>
+         <Publication Date>3</Publication Date>
+         <Genre>Penguin Books</Genre>
+     </row>
+     <row>
+         <Rank>69</Rank>
+         <Title>Hannibal</Title>
+         <Author>Harris</Author>
+         <Volume Sales>Thomas</Volume Sales>
+         <Editions Combined>970</Editions Combined>
+         <Imprint>509</Imprint>
+         <Publisher>4</Publisher>
+         <Publication Date>Arrow Books</Publication Date>
+         <Genre>Random House Grp</Genre>
+     </row>
+     <row>
+         <Rank>70</Rank>
+         <Title>Lord of the Rings</Title>
+         <Author>The</Author>
+         <Volume Sales>Tolkien</Volume Sales>
+         <Editions Combined>J. R. R.</Editions Combined>
+         <Imprint>967</Imprint>
+         <Publisher>466</Publisher>
+         <Publication Date>10</Publication Date>
+         <Genre>HarperCollins Publishers</Genre>
+     </row>
+     <row>
+         <Rank>71</Rank>
+         <Title>Stupid White Men:...and Other Sorry Excuses for the State of the Natio</Title>
+         <Author>Moore</Author>
+         <Volume Sales>Michael</Volume Sales>
+         <Editions Combined>963</Editions Combined>
+         <Imprint>353</Imprint>
+         <Publisher>3</Publisher>
+         <Publication Date>Penguin Books</Publication Date>
+         <Genre>Penguin Grp</Genre>
+     </row>
+     <row>
+         <Rank>72</Rank>
+         <Title>Interpretation of Murder</Title>
+         <Author>The</Author>
+         <Volume Sales>Rubenfeld</Volume Sales>
+         <Editions Combined>Jed</Editions Combined>
+         <Imprint>962</Imprint>
+         <Publisher>515</Publisher>
+         <Publication Date>1</Publication Date>
+         <Genre>Headline Review</Genre>
+     </row>
+     <row>
+         <Rank>73</Rank>
+         <Title>Sharon Osbourne Extreme:My Autobiography</Title>
+         <Author>Osbourne</Author>
+         <Volume Sales>Sharon</Volume Sales>
+         <Editions Combined>959</Editions Combined>
+         <Imprint>496</Imprint>
+         <Publisher>3</Publisher>
+         <Publication Date>Time Warner Books</Publication Date>
+         <Genre>Little</Genre>
+     </row>
+     <row>
+         <Rank>74</Rank>
+         <Title>Alchemist</Title>
+         <Author>The:A Fable About Following Your Dream</Author>
+         <Volume Sales>Coelho</Volume Sales>
+         <Editions Combined>Paulo</Editions Combined>
+         <Imprint>956</Imprint>
+         <Publisher>114</Publisher>
+         <Publication Date>1</Publication Date>
+         <Genre>Thorsons</Genre>
+     </row>
+     <row>
+         <Rank>75</Rank>
+         <Title>At My Mother's Knee ...:and Other Low Joints</Title>
+         <Author>O'Grady</Author>
+         <Volume Sales>Paul</Volume Sales>
+         <Editions Combined>945</Editions Combined>
+         <Imprint>640</Imprint>
+         <Publisher>3</Publisher>
+         <Publication Date>Bantam Press</Publication Date>
+         <Genre>Transworld Grp</Genre>
+     </row>
+     <row>
+         <Rank>76</Rank>
+         <Title>Notes from a Small Island</Title>
+         <Author>Bryson</Author>
+         <Volume Sales>Bill</Volume Sales>
+         <Editions Combined>931</Editions Combined>
+         <Imprint>312</Imprint>
+         <Publisher>3</Publisher>
+         <Publication Date>Black Swan</Publication Date>
+         <Genre>Transworld Grp</Genre>
+     </row>
+     <row>
+         <Rank>77</Rank>
+         <Title>Return of the Naked Chef</Title>
+         <Author>The</Author>
+         <Volume Sales>Oliver</Volume Sales>
+         <Editions Combined>Jamie</Editions Combined>
+         <Imprint>925</Imprint>
+         <Publisher>425</Publisher>
+         <Publication Date>4</Publication Date>
+         <Genre>Michael Joseph</Genre>
+     </row>
+     <row>
+         <Rank>78</Rank>
+         <Title>Bridget Jones: The Edge of Reason</Title>
+         <Author>Fielding</Author>
+         <Volume Sales>Helen</Volume Sales>
+         <Editions Combined>924</Editions Combined>
+         <Imprint>695</Imprint>
+         <Publisher>1</Publisher>
+         <Publication Date>Picador</Publication Date>
+         <Genre>Pan Macmillan Grp</Genre>
+     </row>
+     <row>
+         <Rank>79</Rank>
+         <Title>Jamie's Italy</Title>
+         <Author>Oliver</Author>
+         <Volume Sales>Jamie</Volume Sales>
+         <Editions Combined>906</Editions Combined>
+         <Imprint>968</Imprint>
+         <Publisher>3</Publisher>
+         <Publication Date>Michael Joseph</Publication Date>
+         <Genre>Penguin Grp</Genre>
+     </row>
+     <row>
+         <Rank>80</Rank>
+         <Title>I Can Make You Thin</Title>
+         <Author>McKenna</Author>
+         <Volume Sales>Paul</Volume Sales>
+         <Editions Combined>905</Editions Combined>
+         <Imprint>086</Imprint>
+         <Publisher>3</Publisher>
+         <Publication Date>Bantam Press</Publication Date>
+         <Genre>Transworld Grp</Genre>
+     </row>
+     <row>
+         <Rank>81</Rank>
+         <Title>Down Under</Title>
+         <Author>Bryson</Author>
+         <Volume Sales>Bill</Volume Sales>
+         <Editions Combined>890</Editions Combined>
+         <Imprint>847</Imprint>
+         <Publisher>2</Publisher>
+         <Publication Date>Black Swan</Publication Date>
+         <Genre>Transworld Grp</Genre>
+     </row>
+     <row>
+         <Rank>82</Rank>
+         <Title>Summons</Title>
+         <Author>The</Author>
+         <Volume Sales>Grisham</Volume Sales>
+         <Editions Combined>John</Editions Combined>
+         <Imprint>869</Imprint>
+         <Publisher>671</Publisher>
+         <Publication Date>5</Publication Date>
+         <Genre>Arrow Books</Genre>
+     </row>
+     <row>
+         <Rank>83</Rank>
+         <Title>Small Island</Title>
+         <Author>Levy</Author>
+         <Volume Sales>Andrea</Volume Sales>
+         <Editions Combined>869</Editions Combined>
+         <Imprint>659</Imprint>
+         <Publisher>3</Publisher>
+         <Publication Date>Headline Review</Publication Date>
+         <Genre>Headline Grp</Genre>
+     </row>
+     <row>
+         <Rank>84</Rank>
+         <Title>Nigella Express</Title>
+         <Author>Lawson</Author>
+         <Volume Sales>Nigella</Volume Sales>
+         <Editions Combined>862</Editions Combined>
+         <Imprint>602</Imprint>
+         <Publisher>2</Publisher>
+         <Publication Date>Chatto & Windus</Publication Date>
+         <Genre>Random House Grp</Genre>
+     </row>
+     <row>
+         <Rank>85</Rank>
+         <Title>Brick Lane</Title>
+         <Author>Ali</Author>
+         <Volume Sales>Monica</Volume Sales>
+         <Editions Combined>856</Editions Combined>
+         <Imprint>540</Imprint>
+         <Publisher>4</Publisher>
+         <Publication Date>Black Swan</Publication Date>
+         <Genre>Transworld Grp</Genre>
+     </row>
+     <row>
+         <Rank>86</Rank>
+         <Title>Memory Keeper's Daughter</Title>
+         <Author>The</Author>
+         <Volume Sales>Edwards</Volume Sales>
+         <Editions Combined>Kim</Editions Combined>
+         <Imprint>845</Imprint>
+         <Publisher>858</Publisher>
+         <Publication Date>1</Publication Date>
+         <Genre>Penguin Books</Genre>
+     </row>
+     <row>
+         <Rank>87</Rank>
+         <Title>Room on the Broom</Title>
+         <Author>Donaldson</Author>
+         <Volume Sales>Julia</Volume Sales>
+         <Editions Combined>842</Editions Combined>
+         <Imprint>535</Imprint>
+         <Publisher>5</Publisher>
+         <Publication Date>Macmillan Children's Books</Publication Date>
+         <Genre>Pan Macmillan Grp</Genre>
+     </row>
+     <row>
+         <Rank>88</Rank>
+         <Title>About a Boy</Title>
+         <Author>Hornby</Author>
+         <Volume Sales>Nick</Volume Sales>
+         <Editions Combined>828</Editions Combined>
+         <Imprint>215</Imprint>
+         <Publisher>4</Publisher>
+         <Publication Date>Penguin Books</Publication Date>
+         <Genre>Penguin Grp</Genre>
+     </row>
+     <row>
+         <Rank>89</Rank>
+         <Title>My Booky Wook</Title>
+         <Author>Brand</Author>
+         <Volume Sales>Russell</Volume Sales>
+         <Editions Combined>820</Editions Combined>
+         <Imprint>563</Imprint>
+         <Publisher>3</Publisher>
+         <Publication Date>Hodder & Stoughton Ltd</Publication Date>
+         <Genre>Hodder & Stoughton Grp</Genre>
+     </row>
+     <row>
+         <Rank>90</Rank>
+         <Title>God Delusion</Title>
+         <Author>The</Author>
+         <Volume Sales>Dawkins</Volume Sales>
+         <Editions Combined>Richard</Editions Combined>
+         <Imprint>816</Imprint>
+         <Publisher>907</Publisher>
+         <Publication Date>3</Publication Date>
+         <Genre>Black Swan</Genre>
+     </row>
+     <row>
+         <Rank>91</Rank>
+         <Title>Beano Annual</Title>
+         <Author>The</Author>
+         <Volume Sales>0</Volume Sales>
+         <Editions Combined>816</Editions Combined>
+         <Imprint>585</Imprint>
+         <Publisher>3</Publisher>
+         <Publication Date>D.C. Thomson & Co.</Publication Date>
+         <Genre></Genre>
+     </row>
+     <row>
+         <Rank>92</Rank>
+         <Title>White Teeth</Title>
+         <Author>Smith</Author>
+         <Volume Sales>Zadie</Volume Sales>
+         <Editions Combined>815</Editions Combined>
+         <Imprint>586</Imprint>
+         <Publisher>3</Publisher>
+         <Publication Date>Penguin Books</Publication Date>
+         <Genre>Penguin Grp</Genre>
+     </row>
+     <row>
+         <Rank>93</Rank>
+         <Title>House at Riverton</Title>
+         <Author>The</Author>
+         <Volume Sales>Morton</Volume Sales>
+         <Editions Combined>Kate</Editions Combined>
+         <Imprint>814</Imprint>
+         <Publisher>370</Publisher>
+         <Publication Date>1</Publication Date>
+         <Genre>Pan Books</Genre>
+     </row>
+     <row>
+         <Rank>94</Rank>
+         <Title>Book Thief</Title>
+         <Author>The</Author>
+         <Volume Sales>Zusak</Volume Sales>
+         <Editions Combined>Markus</Editions Combined>
+         <Imprint>809</Imprint>
+         <Publisher>641</Publisher>
+         <Publication Date>5</Publication Date>
+         <Genre>Black Swan</Genre>
+     </row>
+     <row>
+         <Rank>95</Rank>
+         <Title>Nights of Rain and Stars</Title>
+         <Author>Binchy</Author>
+         <Volume Sales>Maeve</Volume Sales>
+         <Editions Combined>808</Editions Combined>
+         <Imprint>900</Imprint>
+         <Publisher>5</Publisher>
+         <Publication Date>Orion (an Imprint of The Orion</Publication Date>
+         <Genre>Orion Grp</Genre>
+     </row>
+     <row>
+         <Rank>96</Rank>
+         <Title>Ghost</Title>
+         <Author>The</Author>
+         <Volume Sales>Harris</Volume Sales>
+         <Editions Combined>Robert</Editions Combined>
+         <Imprint>807</Imprint>
+         <Publisher>311</Publisher>
+         <Publication Date>6</Publication Date>
+         <Genre>Arrow Books</Genre>
+     </row>
+     <row>
+         <Rank>97</Rank>
+         <Title>Happy Days with the Naked Chef</Title>
+         <Author>Oliver</Author>
+         <Volume Sales>Jamie</Volume Sales>
+         <Editions Combined>794</Editions Combined>
+         <Imprint>201</Imprint>
+         <Publisher>4</Publisher>
+         <Publication Date>Michael Joseph</Publication Date>
+         <Genre>Penguin Grp</Genre>
+     </row>
+     <row>
+         <Rank>98</Rank>
+         <Title>Hunger Games</Title>
+         <Author>The:Hunger Games Trilogy</Author>
+         <Volume Sales>Collins</Volume Sales>
+         <Editions Combined>Suzanne</Editions Combined>
+         <Imprint>792</Imprint>
+         <Publisher>187</Publisher>
+         <Publication Date>3</Publication Date>
+         <Genre>Scholastic</Genre>
+     </row>
+     <row>
+         <Rank>99</Rank>
+         <Title>Lost Boy</Title>
+         <Author>The:A Foster Child's Search for the Love of a Family</Author>
+         <Volume Sales>Pelzer</Volume Sales>
+         <Editions Combined>Dave</Editions Combined>
+         <Imprint>791</Imprint>
+         <Publisher>507</Publisher>
+         <Publication Date>3</Publication Date>
+         <Genre>Orion (an Imprint of The Orion</Genre>
+     </row>
+     <row>
+         <Rank>100</Rank>
+         <Title>Jamie's Ministry of Food:Anyone Can Learn to Cook in 24 Hours</Title>
+         <Author>Oliver</Author>
+         <Volume Sales>Jamie</Volume Sales>
+         <Editions Combined>791</Editions Combined>
+         <Imprint>095</Imprint>
+         <Publisher>1</Publisher>
+         <Publication Date>Michael Joseph</Publication Date>
+         <Genre>Penguin Grp</Genre>
      </row>
  </root>
